@@ -20,6 +20,7 @@ header {
 }
 
 .conteiner {
+    font-family: Arial, Helvetica, sans-serif;
     background-color: white;
     margin-top: 30px;
     max-width: 1100px;
@@ -28,6 +29,7 @@ header {
     margin-right: auto;
     padding: 15px;
     padding-left: 40px;
+    margin-bottom: -20px;
 }
 
 .buttontask {
@@ -45,4 +47,72 @@ header {
     color: rgba(195, 195, 195, 0.96);
     border-radius: 5px;
     padding: 10px;
+}
+
+.listtext {
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.list {
+    margin-left: -30px;
+    list-style: none;
+}
+
+.listitem {
+    margin-top: 10px;
+}
+
+.itemblue {
+    font-size: 11px;
+    background-color: rgb(74, 165, 255);
+    color: white;
+    border-radius: 10px;
+    padding: 6px;
+    vertical-align: middle;
+}
+
+.itempurple {
+    font-size: 11px;
+    background-color: rgb(154, 41, 215);
+    color: white;
+    border-radius: 10px;
+    padding: 6px;
+    vertical-align: middle;
+}
+
+.itemgreen {
+    font-size: 11px;
+    background-color: rgb(29, 162, 84);
+    color: white;
+    border-radius: 10px;
+    padding: 6px;
+    vertical-align: middle;
+}
+
+.itemorange {
+    font-size: 11px;
+    background-color: rgb(233, 136, 0);
+    color: white;
+    border-radius: 10px;
+    padding: 6px;
+    vertical-align: middle;
+}
+
+.itempink {
+    font-size: 11px;
+    background-color: rgb(219, 57, 195);
+    color: white;
+    border-radius: 10px;
+    padding: 6px;
+    vertical-align: middle;
+}
+
+.itemlightgreen {
+    font-size: 11px;
+    background-color: rgb(101, 212, 82);
+    color: white;
+    border-radius: 10px;
+    padding: 6px;
+    vertical-align: middle;
 }
