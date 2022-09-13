@@ -1,3 +1,8 @@
+body {
+    background-color: rgba(226, 226, 226, 0.96);
+    margin: 0px;
+}
+
 header {
     background-color: white;
     padding: 15px;
@@ -14,7 +19,30 @@ header {
     width: 50px;
 }
 
-body {
-    background-color: rgba(226, 226, 226, 0.96);
-    margin: 0px;
+.conteiner {
+    background-color: white;
+    margin-top: 30px;
+    max-width: 1100px;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    padding-left: 40px;
+}
+
+.buttontask {
+    background-color: rgb(69, 162, 255);
+    border: 1px solid rgb(69, 162, 255);
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin-right: 5px;
+}
+
+.buttonsection {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgba(195, 195, 195, 0.96);
+    color: rgba(195, 195, 195, 0.96);
+    border-radius: 5px;
+    padding: 10px;
 }
