@@ -1,0 +1,20 @@
+header {
+    background-color: white;
+    padding: 15px;
+}
+
+.Titolo {
+    display: inline;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align: super;
+}
+
+.logo {
+    width: 50px;
+}
+
+body {
+    background-color: rgba(226, 226, 226, 0.96);
+    margin: 0px;
+}
